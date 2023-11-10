@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Contexto",
+    "brief": "Find the secret word. You have unlimited guesses.",
+    "descrition": "The words were sorted by an artificial intelligence algorithm according to how similar they were to the secret word.",
+    "link": "https://contexto.me/",
+    "image": "https://world3dmap.com/wp-content/uploads/contexto-wordle.webp"
+  },
+  {
+    "name": "Wordle",
+    "brief": "Each guess must be a valid 5-letter word.",
+    "descrition": "The color of the tiles will change to show how close your guess was to the word.",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wordle_196_example.svg/1200px-Wordle_196_example.svg.png",
+    "image": "https://world3dmap.com/wp-content/uploads/contexto-wordle.webp"
+  },
+  {
+    "name": "Sea Battle",
+    "brief": "Sea Battle (which you may also know under the name Battleship) is originally a simple pen and paper game.",
+    "descrition": "You play against an opponent, you both have a piece of paper with two 10x10 grids, one grid for your own ships, and one for your opponent's ships which you are trying to find.",
+    "link": "https://cardgames.io/seabattle/",
+    "image": "https://play-lh.googleusercontent.com/QXTjAT84MCONf_2oChYgf5hdQkJB_bq-eleebsXBWTh2xgj2BMixOqb9Fp-Z_IAQ4sg=w526-h296-rw"
+  }
+]
